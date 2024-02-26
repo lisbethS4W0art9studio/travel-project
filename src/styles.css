@@ -32,6 +32,9 @@ body {
   grid-template-columns: 1fr 1fr 1fr;
 }
 
+.grid.grid-3-columns {
+  margin: 30px 0;
+}
 .embed {
   width: 100%;
   aspect-ratio: 1 /1;
